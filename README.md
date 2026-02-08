@@ -1,0 +1,50 @@
+# TOMORROW X TOGETHER – Beautiful Strangers
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+We do it for love
+잊지 말아 forever
+Still, we do it for love
+두려워 말자 together
+We're beautiful strangers
+너의 이름을 불러
+마치 아이가 엄마를 찾듯
+목소리는 점점 커져
+네가 건넨 힘을 따라서
+네가 날 불러 날 깨워줬듯
+이제 널 불러 callin' our heaven
+서로를 구원해 준 이 순간
+이 순간을 잊지 마
+We do it for love
+잊지 말아 forever
+Still, we do it for love
+두려워 말자 together
+You, 너의 이름을 불러
+이 순간이 너무 아름다워
+영원의 약속
+주문이 풀린 세계 속
+We're beautiful strangers
+We're beautiful strangers
+We're beautiful strangers
+이상하면서도 아름다운걸
+깨진 유리조차 반짝여 보여
+네 꺾인 날개와 내 뿔
+흉터는 마치 타투
+우리 사랑의 증거
+네 등의 흉터에 입을 맞춰
+또 한 번 너와 그리는 heaven
+세상이 우릴 다 비웃어도
+두렵지 않을 이유
+We do it for love
+잊지 말아 forever
+Still, we do it for love
+두려워 말자 together
+You, 너의 이름을 불러
+이 순간이 너무 아름다워
+영원의 약속
+주문이 풀린 세계 속
+We're beautiful strangers
+We're beautiful strangers
+We're beautiful strangers
+```
