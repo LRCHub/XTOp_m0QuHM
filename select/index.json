@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "Beautiful Strangers",
+  "base_artist": "TOMORROW X TOGETHER",
+  "createdAt": "2026-02-08T16:33:55.620983Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Beautiful Strangers",
+      "artist": "Ben Haenow",
+      "has_synced": true,
+      "path": "select/01_Beautiful_Strangers_Ben_Haenow.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "The Beautiful Strangers",
+      "artist": "Frank Sinatra",
+      "has_synced": true,
+      "path": "select/02_The_Beautiful_Strangers_Frank_Sinatra.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "The Beautiful Strangers (Album Version)",
+      "artist": "Frank Sinatra",
+      "has_synced": true,
+      "path": "select/03_The_Beautiful_Strangers_(Album_Version)_Frank_Sinatra.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Beautiful Strangers",
+      "artist": "✦ pink cig ✦",
+      "has_synced": true,
+      "path": "select/04_Beautiful_Strangers_✦_pink_cig_✦.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "The Beautiful Strangers",
+      "artist": "Frank Sinatra",
+      "has_synced": true,
+      "path": "select/05_The_Beautiful_Strangers_Frank_Sinatra.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "The Beautiful Strangers",
+      "artist": "Aaron Freeman",
+      "has_synced": false,
+      "path": "select/06_The_Beautiful_Strangers_Aaron_Freeman.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Beautiful Strangers",
+      "artist": "✦Pink Cig✦",
+      "has_synced": true,
+      "path": "select/07_Beautiful_Strangers_✦Pink_Cig✦.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Beautiful Strangers",
+      "artist": "✦Pink Cig✦; ✦Pink Cig✦",
+      "has_synced": true,
+      "path": "select/08_Beautiful_Strangers_✦Pink_Cig✦;_✦Pink_Cig✦.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Beautiful Strangers",
+      "artist": "TOMORROW X TOGETHER",
+      "has_synced": false,
+      "path": "select/pl_01_Beautiful_Strangers_TOMORROW_X_TOGETHER.txt"
+    }
+  ]
+}
